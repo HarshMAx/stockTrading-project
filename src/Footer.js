@@ -22,28 +22,28 @@ function Footer() {
                     </div>
                     <div className='col-3 fs-5'>
                         <p>Company</p>
-                        <a href='#'>About</a><br />
-                        <a href='#'>Products</a><br />
-                        <a href='#'>Pricing</a><br />
-                        <a href='#'>Referral program</a><br />
-                        <a href='#'>Carrers</a><br />
-                        <a href='#'>Zerodha.tech</a><br />
-                        <a href='#'>Press & media</a><br />
-                        <a href='#'>Zerodha cars(CSR)</a><br />
+                        <a href='#' style={{ textDecoration: "none" }}>About</a><br />
+                        <a href='#' style={{ textDecoration: "none" }}>Products</a><br />
+                        <a href='#' style={{ textDecoration: "none" }}>Pricing</a><br />
+                        <a href='#' style={{ textDecoration: "none" }}>Referral program</a><br />
+                        <a href='#' style={{ textDecoration: "none" }}>Carrers</a><br />
+                        <a href='#' style={{ textDecoration: "none" }}>Zerodha.tech</a><br />
+                        <a href='#' style={{ textDecoration: "none" }}>Press & media</a><br />
+                        <a href='#' style={{ textDecoration: "none" }}>Zerodha cars(CSR)</a><br />
                     </div>
                     <div className='col-3 fs-5'>
                         <p>Support</p>
-                        <a href='#'>Contact</a><br />
-                        <a href='#'>Support portal</a><br />
-                        <a href='#'>Z-Connect blog</a><br />
-                        <a href='#'>List of charges</a><br />
-                        <a href='#'>Download & resources</a><br />
+                        <a href='#' style={{ textDecoration: "none" }}>Contact</a><br />
+                        <a href='#' style={{ textDecoration: "none" }}>Support portal</a><br />
+                        <a href='#' style={{ textDecoration: "none" }}>Z-Connect blog</a><br />
+                        <a href='#' style={{ textDecoration: "none" }}>List of charges</a><br />
+                        <a href='#' style={{ textDecoration: "none" }}>Download & resources</a><br />
                     </div>
                     <div className='col-3 fs-5'>
                         <p>Account</p>
-                        <a href='#'>Open an account</a><br />
-                        <a href='#'>Fund transfer</a><br />
-                        <a href='#'>60 day challenge</a><br />
+                        <a href='#' style={{ textDecoration: "none" }}>Open an account</a><br />
+                        <a href='#' style={{ textDecoration: "none" }}>Fund transfer</a><br />
+                        <a href='#' style={{ textDecoration: "none" }}>60 day challenge</a><br />
                     </div>
                 </div>
                 <div className='mt-5 fs-6 text-muted'>
