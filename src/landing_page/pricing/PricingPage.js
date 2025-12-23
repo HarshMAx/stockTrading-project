@@ -1,8 +1,14 @@
 import React from 'react';
+import Hero from './Hero';
+import Brockrage from './Brockrage';
 
 function PricingPage() {
     return ( 
-        <h1>PrincingPage</h1>
+        // <h1>PrincingPage</h1>
+        <>
+            <Hero />
+            <Brockrage />
+        </>
      );
 }
 

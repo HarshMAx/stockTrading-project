@@ -9,6 +9,3 @@ function Hero() {
 }
 
 export default Hero;
-<h1>
-    Hero
-</h1>
